@@ -14,9 +14,9 @@ namespace Russet.DAL.EF
         /// Initializes a new instance of the <see cref="UnitOfWork"/> class.
         /// </summary>
         /// <param name="orm">The orm.</param>
-        public UnitOfWork(DbContext orm)
+        public UnitOfWork(object orm)
         {
-            this.Orm = orm;
+            this.Orm = (DbContext)orm;
         }
 
         #region IUnitOfWork Members
