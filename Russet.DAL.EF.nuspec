@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>Russet.DAL.EF</id>
+    <version>$version$</version>
+    <title>$title$</title>
+    <authors>Sandeep Sihari</authors>
+    <owners>Russet Technology Solutions LLP</owners>
+    <licenseUrl>https://github.com/Russet-Technology-Solutions-LLP/Russet.DAL.EF/blob/master/LICENSE</licenseUrl>
+    <projectUrl>https://github.com/Russet-Technology-Solutions-LLP/Russet.DAL.EF</projectUrl>
+    <iconUrl>https://github.com/Russet-Technology-Solutions-LLP/Russet.DAL/blob/master/Icon.png</iconUrl>
+    <requireLicenseAcceptance>true</requireLicenseAcceptance>
+    <description>Repository based data access layer.</description>
+    <releaseNotes>First release</releaseNotes>
+    <copyright>Copyright 2017</copyright>
+    <tags>Russet data access entityframework</tags>
+  </metadata>
+</package>
