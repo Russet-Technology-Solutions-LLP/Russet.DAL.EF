@@ -6,7 +6,8 @@ This library is a extension of [Russet.Dal](https://github.com/Russet-Technology
 
     `PM> Install-Package Russet.DAL.EF`  
 * You can install it from **Visual Studio** to your project.   
-![Install Screen shot](InstallScreenShot.png "Screen shot")   
+![Install Screen shot](InstallScreenShot.png "Screen shot") 
+  
 ### 2. From [Github](https://github.com/Russet-Technology-Solutions-LLP/Russet.DAL.EF/releases)
 * If you want latest release or build from source. download latest [release](https://github.com/Russet-Technology-Solutions-LLP/Russet.DAL.EF/releases/tag/v1.0) here.   
 ![Release Screen shot](ReleaseScreenShot.png "Release")
